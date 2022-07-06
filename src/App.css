@@ -1,0 +1,42 @@
+.bg-myRed {
+  background-color: crimson;
+}
+
+.content {
+  padding: 12px;
+  height: 3000px;
+}
+
+.coloring {
+  color: black;
+}
+
+.right-aligned {
+  justify-content: flex-end;
+}
+
+
+#bank {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#bank td, #bank th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#bank tr:nth-child(even){background-color: #f2f2f2;}
+
+#bank tr:hover {background-color: #ddd;}
+
+#bank th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #f3f3f3;
+  color: #000;
+}
