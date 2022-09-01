@@ -1,18 +1,18 @@
-#Title: BadBank Application 
-#Description:
+# Title: BadBank Application 
+# Description:
 This is a project for the MIT Emeritus Fullstack Development with MERN Developer Profesional Certificate in Coding. It is called BadBank for it lacks security.
 This is a React application, it uses, context, routing and bootstrap. It also has form validations. The application was deployed in AWS Buckets.
 
-#Functionalities:
-##Create Account
-##Login
-##Deposit
-##Withdraw
-##All Data
+# Functionalities:
+## Create Account
+## Login
+## Deposit
+## Withdraw
+## All Data
 
-#Future Adds:
-##Backend with MongoDB
-##Transfers
+# Future Adds:
+## Backend with MongoDB
+## Transfers
 
 # Getting Started with Create React App
 
@@ -37,9 +37,9 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-#Author
+# Author
 Gisel Gomez. Student MIT- Fullstack Development with MERN
 
-#License
+# License
 MIT License
 
