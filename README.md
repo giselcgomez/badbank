@@ -1,7 +1,7 @@
 # Title: BadBank Application 
 # Description:
 This is a project for the MIT Emeritus Fullstack Development with MERN Developer Profesional Certificate in Coding. It is called BadBank for it lacks security.
-This is a React application, it uses, context, routing and bootstrap. It also has form validations. The application was deployed in AWS Buckets.
+This is a React application, it uses, context, routing and bootstrap. It also has form validations. The application was deployed in AWS S3 Buckets. [Visit Here](https://badbankreact01.s3.us-west-1.amazonaws.com/index.html#/)
 
 # Functionalities:
 * Create Account
