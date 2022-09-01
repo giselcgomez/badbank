@@ -4,15 +4,15 @@ This is a project for the MIT Emeritus Fullstack Development with MERN Developer
 This is a React application, it uses, context, routing and bootstrap. It also has form validations. The application was deployed in AWS Buckets.
 
 # Functionalities:
-## Create Account
-## Login
-## Deposit
-## Withdraw
-## All Data
+* Create Account
+* Login
+* Deposit
+* Withdraw
+* All Data
 
 # Future Adds:
-## Backend with MongoDB
-## Transfers
+* Backend with MongoDB
+* Transfers
 
 # Getting Started with Create React App
 
