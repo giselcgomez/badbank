@@ -16,6 +16,17 @@ This is a React application, it uses, context, routing and bootstrap. It also ha
 ![Login](https://giselgomez.org/badbank2.png)
 
 # Future Additions:
+* React 
+* Javascript
+* HTML
+* Bootstrap 
+* CSS 
+* Nodejs
+* Expressjs 
+* MongoDB - future implementation
+* Docker Containers - future implementation
+
+# Future Additions:
 * Backend with MongoDB
 * Transfers
 
