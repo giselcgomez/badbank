@@ -10,6 +10,10 @@ This is a React application, it uses, context, routing and bootstrap. It also ha
 * Withdraw
 * All Data
 
+![Welcome Page](https://giselgomez.org/badbank1.jpg/200x150 "BadBank")
+
+![Login](https://giselgomez.org/badbank2.jpg/200x150 "Login")
+
 # Future Adds:
 * Backend with MongoDB
 * Transfers
