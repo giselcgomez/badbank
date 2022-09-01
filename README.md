@@ -15,7 +15,7 @@ This is a React application, it uses, context, routing and bootstrap. It also ha
 
 ![Login](https://giselgomez.org/badbank2.png)
 
-# Future Additions:
+# Technology:
 * React 
 * Javascript
 * HTML
