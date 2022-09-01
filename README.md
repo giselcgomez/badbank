@@ -7,6 +7,7 @@ This is a React application, it uses, context, routing and bootstrap. It also ha
 * Create Account
 * Login
 * Deposit
+* Balance
 * Withdraw
 * All Data
 
